@@ -1,0 +1,1 @@
+This folder contains code to search map of US with Astar,Greedy Search and Uniform Cost Search implementations.
